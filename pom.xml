@@ -60,7 +60,7 @@
                 Ответственен за запуск тестов с помощью maven  -->
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-surefire-plugin</artifactId>
-                <version>2.22.2</version>
+                <version>3.0.0-M7</version>
                 <configuration>
                     <argLine>-Xmx1024m -Xms512m</argLine>
                     <testFailureIgnore>false</testFailureIgnore>
